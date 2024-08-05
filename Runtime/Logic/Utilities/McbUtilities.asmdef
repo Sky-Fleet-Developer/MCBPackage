@@ -1,0 +1,16 @@
+{
+    "name": "McbUtilities",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c17c46a5ad04b0b40bb4e863211d986b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

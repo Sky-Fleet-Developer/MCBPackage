@@ -1,0 +1,8 @@
+{
+  "name": "com.skyfleetdeveloper.mcb",
+  "version": "1.0.0",
+  "displayName": "magic constructs building",
+  "description": "A node-based magic construct builder",
+  "unity": "2022.3",
+  "dependencies": {}
+}
